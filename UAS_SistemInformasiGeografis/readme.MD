@@ -1,6 +1,6 @@
 ## TUGAS FINAL SISTEM INFORMASI GEOGRAFIS
-- NAMA  : I Putu Andreana Wirawan
-- NIM   : D0221068
+- NAMA  : SAYYID MUSLIH J
+- NIM   : D0221062
 - KELAS : INFORMATIKA B
 ## DEMO
-[(https://github.com/AndreanaWirawan/Final_SIG)](https://github.com/AndreanaWirawan/Final_SIG)
+[(https://github.com/Sayyidmuslih/UAS-SIG-SAYYID-.git)](https://github.com/Sayyidmuslih/UAS-SIG-SAYYID-.git)
